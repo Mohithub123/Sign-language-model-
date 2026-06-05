@@ -91,3 +91,28 @@ Sign-language-model
 └── README.md
 
 
+---
+
+## ⚙️ Installation
+
+
+Clone Repository
+
+```bash
+git clone https://github.com/Mohithub123/Sign-language-model-.git
+
+
+## Install Requirements
+pip install -r requirements.txt
+
+## Run Project
+python test.py
+
+📸 Output
+
+Real time alphabet prediction from hand signs.
+
+👨‍💻 Author
+
+Mohit Chandravanshi
+
