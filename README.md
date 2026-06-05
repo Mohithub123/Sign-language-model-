@@ -9,7 +9,7 @@ This project helps in improving communication for people using sign language by 
 ## 🚀 Project Demo
 
 
-![Demo](images/demo.png)
+![Demo](images/Demo.png)
 
 
 ---
@@ -28,7 +28,7 @@ This project helps in improving communication for people using sign language by 
 ## 🧠 How System Works
 
 
-![Workflow](images/workflow.png)
+![Workflow](images/Workflow.png)
 
 
 ### Step 1: Capture Hand Image
@@ -52,7 +52,7 @@ The system displays the predicted alphabet.
 ## 🏗️ Model Architecture
 
 
-![Architecture](images/architecture.png)
+![Architecture](images/Architecture.png)
 
 
 - Layer 1:
