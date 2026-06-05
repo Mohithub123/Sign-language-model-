@@ -81,3 +81,13 @@ The system displays the predicted alphabet.
 
 ## 📂 Project Structure
 
+Sign-language-model
+
+├── Data
+├── Model
+├── datacollection.py
+├── test.py
+├── requirements.txt
+└── README.md
+
+
